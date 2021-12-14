@@ -22,7 +22,8 @@
  <a href ="mail.google.com/mail/u/lipehfama@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-fama-595ab7195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
     
-  ![Snake animation](https://github.com/FelipeFama/FelipeFama/blob/output/github-contribuition-grid-snake.svg)
+  ![Snake animation](https://github.com/FelipeFama/FelipeFama/blob/output/github-contribution-grid-snake.svg)
+    
 </div>
 
 
