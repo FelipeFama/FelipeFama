@@ -1,8 +1,8 @@
-## Olá! eu sou o Felipe Fama
+## Olá! bem-vindo eu me chamo Felipe Fama
 
--Estudando Front-End 
-
--Estudando Back-End
+- Atualmente estudando para Front End, mas sempre com curiosidade para algo a mais.
+- Sempre fui apaixonado por tecnologia e pelas coisas incríveis que podem ser feitas com ela.
+- Estou sempre em busca de encarar novos desafios e aprender coisas novas.
 
 <div align="center">
   <a href="https://github.com/FelipeFama">
@@ -12,9 +12,9 @@
 
   <div align="center" style="display: inline_block"><br>
     
-  <img align="center" alt="Felipe-HTML" height="300" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Felipe-CSS" height="300" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Felipe-Js" height="300" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Felipe-HTML" height="200" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Felipe-CSS" height="200" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Felipe-Js" height="200" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
   
   <div align="center"> 
