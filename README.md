@@ -4,6 +4,10 @@
 
 :bulb:	 Passionate about technology and innovation.
 
+:books: Currently focusing on studies in web development and student at UNIP university.
+
+:desktop_computer: Looking for an opportunity in the technology field.
+
 </br>
 <div >
   <a href="https://github.com/FelipeFama">
