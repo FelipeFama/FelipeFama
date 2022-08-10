@@ -1,8 +1,11 @@
 # Hello there! I'm Felipe. :wave:	
 
-- Apaixonado por tecnologia e por inovação, em aprendizado constante sempre em busca de aprender algo novo.
+## :rocket:	About me:
 
-<div  >
+:bulb:	 Passionate about technology and innovation.
+
+</br>
+<div >
   <a href="https://github.com/FelipeFama">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeFama&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFama&layout=compact&langs_count=7&theme=gruvbox"/>
