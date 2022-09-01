@@ -11,8 +11,8 @@
 </br>
 <div >
   <a href="https://github.com/FelipeFama">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeFama&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFama&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeFama&show_icons=true&theme=aura"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFama&layout=compact&langs_count=7&theme=aura"/>
 </div>
   
   
@@ -34,7 +34,7 @@
   <div > 
   <a href="https://instagram.com/lipeh.mesquita" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href ="mailto:lipehfama@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipe-fama-595ab7195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/lipeh.fama.dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/users/722976706347925515" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
     
   ![Snake animation](https://github.com/FelipeFama/FelipeFama/blob/output/github-contribution-grid-snake.svg)
