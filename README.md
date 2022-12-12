@@ -37,9 +37,6 @@
   <a href="https://discord.com/users/722976706347925515" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://codepen.io/felipefama" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white" target="_blank"></a> 
   
-    
-  ![Snake animation](https://github.com/FelipeFama/FelipeFama/blob/output/github-contribution-grid-snake.svg)
-    
 </div>
 
 
