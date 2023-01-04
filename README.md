@@ -11,7 +11,7 @@
 </br>
 <div >
   <a href="https://github.com/FelipeFama">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeFama&include_all_commits=true&theme=aura"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeFama&theme=aura&count_private=true&show_icons=true&include_all_commits=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFama&layout=compact&langs_count=7&theme=aura"/>
   </a>
 </div>
