@@ -11,8 +11,8 @@
 </br>
 <div >
   <a href="https://github.com/FelipeFama">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeFama&include_all_commits=true&theme=aura&hide_border=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFama&layout=compact&langs_count=7&theme=aura&hide_border=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeFama&include_all_commits=true&theme=aura"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFama&layout=compact&langs_count=7&theme=aura"/>
   </a>
 </div>
   
