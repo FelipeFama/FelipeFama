@@ -11,11 +11,10 @@
 </br>
 <div >
   <a href="https://github.com/FelipeFama">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeFama&show_icons=true&include_all_commits=false&theme=aura&hide_border=false"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFama&layout=compact&langs_count=7&theme=aura"/>
+   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FelipeFama&&show_icons=true&theme=aura&include_all_commits=true"/>
+   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FelipeFama&layout=compact&langs_count=7&theme=aura"/>
   </a>
-</div>
-  
+</div>  
   
  ## :computer: Techs:
 
