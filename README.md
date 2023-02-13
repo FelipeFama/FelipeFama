@@ -2,11 +2,12 @@
 
 ## :rocket:	About me:
 
-:bulb:	 Passionate about technology and innovation.
+❤️	Passionate about technology and innovation.
 
-:books: Currently focusing on studies in web development and student at UNIP university.
+📖  I love researching, and reading other people's articles and code.
 
-:desktop_computer: Looking for an opportunity in the technology field.
+👨‍💻  Putting my skills into practice with personal projects.
+
 
 </br>
 <div >
@@ -16,7 +17,7 @@
   </a>
 </div>  
   
- ## :computer: Techs:
+ ## 🛠️ Technologies and tools:
 
   <div>
   <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
