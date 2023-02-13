@@ -1,6 +1,6 @@
 # Hello there! I'm Felipe. :wave:	
 
-## 💻	About me:
+## 💻 About me:
 
 ❤️	Passionate about technology and innovation.
 
