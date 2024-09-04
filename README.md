@@ -13,7 +13,7 @@
 <div >
   <a href="https://github.com/FelipeFama">
    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FelipeFama&&show_icons=true&theme=radical&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FelipeFama&layout=compact&langs_count=7&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FelipeFama&layout=compact&langs_count=8&theme=radical"/>
   </a>
 </div>  
   
