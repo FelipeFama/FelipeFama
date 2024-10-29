@@ -37,6 +37,12 @@
   <img align="center" height="25" width="100" alt="Felipe-Styled-Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
   
   <img align="center" height="25" width="85" alt="Felipe-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+
+  <img align="center" height="25" width="85" alt="Felipe-Next" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+
+  <img align="center" height="25" width="85" alt="Felipe-Vue" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
+
+  <img align="center" height="25" width="85" alt="Felipe-Nuxt" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82">
   
   <img align="center" height="25" width="55" alt="Felipe-Git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
  </div>
