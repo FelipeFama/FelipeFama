@@ -1,24 +1,44 @@
-# Hello there! I'm Felipe. :wave:	
+# 👋 Hi there, I'm Felipe Fama
 
-## 💻 About me:
+<p>
+I'm currently working on educational projects while also building my own online tools and side projects.
+</p>
 
-❤️	Passionate about technology and innovation.
+<p>
+I'm a Web Developer focused on frontend development and currently expanding my skills toward full-stack development.
+</p>
 
-📖  I love researching, and reading other people's articles and code.
+<p>
+I enjoy creating projects to learn how things work, experimenting with new ideas, and transforming them into real-world products. I also enjoy continuously improving, refining, and organizing my projects.
+</p>
 
-👨‍💻  Putting my skills into practice with personal projects.
+<p>
+AI is part of my development workflow. I use AI agents for planning, coding, reviewing, and exploring different approaches to solving problems. Several of my projects have been built with this collaborative workflow.
+</p>
 
+<p>
+Available for employment and freelance opportunities.
+Feel free to connect with me
+<a href="https://www.linkedin.com/in/felipe-fama/" target="_blank">Linkedin</a>.
+</p>
 
+### :arrow_right: Contact and Social Networks 
+<section> 
+  <a href="https://www.instagram.com/lipeh.fama.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/felipe-fama-595ab7195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://discord.com/users/722976706347925515" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://codepen.io/felipefama" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white" target="_blank"></a> 
+</section>
+
+### 🚀 Featured Projects
+
+<details>
+<summary><strong>Zuctools:</strong></summary>
 </br>
-<section>
-  <a href="https://github.com/lipehfama">
-   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lipehfama&&show_icons=true&theme=radical&include_all_commits=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipehfama&layout=compact&langs_count=8&theme=radical"/>
-  </a>
-</section>  
+A curated directory of useful online tools for everyday. <a href="https://zuctools.site" target="_blank">zuctools.site</a> 
+</details>
   
- ## 🛠️ Technologies and tools:
+### 🛠️ Technologies and tools:
 
 <section style="display: flex; flex-wrap: wrap; justify-content: center; gap: 6px;">
 
@@ -48,15 +68,18 @@
   
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
 
-</section>
-  
-  ## :arrow_right: Contact and Social Networks 
-  <section> 
-  <a href="https://www.instagram.com/lipeh.fama.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/felipe-fama-595ab7195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://discord.com/users/722976706347925515" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://codepen.io/felipefama" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white" target="_blank"></a> 
+  <img src="https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white" />
+
 </section>
 
+</br>
+
+<section style="display: flex; flex-wrap: wrap; justify-content: center; gap: 6px;">
+  <a href="https://github.com/lipehfama">
+   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lipehfama&&show_icons=true&theme=radical&include_all_commits=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipehfama&layout=compact&langs_count=8&theme=radical"/>
+  </a>
+</section>
 
 
