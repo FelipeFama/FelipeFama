@@ -71,15 +71,3 @@ A curated directory of useful online tools for everyday. <a href="https://zuctoo
   <img src="https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white" />
 
 </section>
-
-</br>
-
-<section style="display: flex; flex-wrap: wrap; justify-content: center; gap: 6px;">
-  <a href="https://github.com/lipehfama">
-   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lipehfama&&show_icons=true&theme=radical&include_all_commits=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipehfama&layout=compact&langs_count=8&theme=radical"/>
-  </a>
-</section>
-
-
